@@ -1,0 +1,82 @@
+[{
+        "title": "Feugiat sodales at nullam tellus.",
+        "img-name": "article-img-1",
+        "img-extension": "jpg",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mi posuere nibh tempor fringilla porta pellentesque ipsum.",
+        "author": "Samatha Leuthex",
+        "date": "May 5",
+        "reading-time": "3 min read"
+    },
+    {
+        "title": "Porta proin tellus sed pulvinar odio eu pulvinar.",
+        "img-name": "article-img-2",
+        "img-extension": "jpg",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "author": "Samatha Leuthex",
+        "date": "May 5",
+        "reading-time": "3 min read"
+    },
+    {
+        "title": "Non quam tortor, proin eu egestas scelerisque purus.",
+        "img-name": "article-img-3",
+        "img-extension": "jpg",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "author": "Samatha Leuthex",
+        "date": "May 5",
+        "reading-time": "3 min read"
+    },
+    {
+        "title": "Amet amet sed pharetra risus sit eget interdum.",
+        "img-name": "article-img-4",
+        "img-extension": "jpg",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "author": "Samatha Leuthex",
+        "date": "May 5",
+        "reading-time": "3 min read"
+    },
+    {
+        "title": "Massa eu in laoreet enim augue vulputate nunc.",
+        "img-name": "article-img-5",
+        "img-extension": "jpg",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lectus quisque magna in nisl nibh bibendum ipsum, elit duis. Donec.",
+        "author": "Samatha Leuthex",
+        "date": "May 5",
+        "reading-time": "3 min read"
+    },
+    {
+        "title": "Feugiat a euismod arcu feugiat posuere morbi.",
+        "img-name": "article-img-6",
+        "img-extension": "jpg",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lectus quisque magna in nisl nibh bibendum ipsum, elit duis. Donec.",
+        "author": "Samatha Leuthex",
+        "date": "May 5",
+        "reading-time": "3 min read"
+    },
+    {
+        "title": "Sociis purus pellentesque faucibus vitae et felis.",
+        "img-name": "article-img-7",
+        "img-extension": "jpg",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lectus quisque magna in nisl nibh bibendum ipsum, elit duis. Donec.",
+        "author": "Samatha Leuthex",
+        "date": "May 5",
+        "reading-time": "3 min read"
+    },
+    {
+        "title": "Cursus feugiat mi pellentesque mauris sed eu.",
+        "img-name": "article-img-8",
+        "img-extension": "jpg",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lectus quisque magna in nisl nibh bibendum ipsum, elit duis. Donec.",
+        "author": "Samatha Leuthex",
+        "date": "May 5",
+        "reading-time": "3 min read"
+    },
+    {
+        "title": "A morbi arcu curabitur etiam fringilla augue.",
+        "img-name": "article-img-9",
+        "img-extension": "jpg",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lectus quisque magna in nisl nibh bibendum ipsum, elit duis. Donec.",
+        "author": "Samatha Leuthex",
+        "date": "May 5",
+        "reading-time": "3 min read"
+    }
+]
